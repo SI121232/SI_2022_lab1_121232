@@ -2,5 +2,5 @@ Ice cream x3
 Watermelon x2
 Pineapple x4
 Tomato x20
-Potato x25
+Potato x100
 
