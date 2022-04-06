@@ -3,4 +3,4 @@ Watermelon x2
 Pineapple x4
 Orange x20
 Potato x25
-
+Beer x100
