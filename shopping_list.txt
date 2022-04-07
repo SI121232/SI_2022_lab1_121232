@@ -4,4 +4,7 @@ Pineapple x4
 Orange x20
 Potato x25
 Beer x100
+Tomato x20
+Potato x100
+
 
