@@ -1,0 +1,124 @@
+1. DONE 
+My username is SI121232
+
+2. DONE
+Previously it was the default branch repository named “main”, changed it to “master”
+
+3. DONE
+Za logiranje kreirav soodveten token.
+
+4. DONE
+git clone https://github.com/SI121232/SI_2022_lab1_121232.git
+
+5. 
+touch shopping_list.txt
+nano shopping_list.txt
+
+Ice cream
+Watermelon
+Pineapple
+Tomato
+Potato 
+
+git add .
+git commit -m "Add 5 items to the shopping list"
+
+6. 
+touch shopping_list.txt
+nano shopping_list.txt
+
+Ice cream x3
+Watermelon x2
+Pineapple x4
+Tomato x20
+Potato x25
+
+git add .
+git commit -m "Add quantities to the items."
+
+7. git checkout -b branch1
+git checkout -b branch2
+
+8. DONE
+
+9. git push --all origin
+
+10. git checkout branch1
+
+11.
+touch shopping_list.txt
+nano shopping_list.txt
+
+Ice cream x3
+Watermelon x2
+Pineapple x4
+Tomato x20
+Potato x100
+
+git add .
+git commit -m "Change quantity of item #5"
+
+12. git checkout master
+
+13. 
+touch shopping_list.txt 
+nano shopping_list.txt
+
+Ice cream x3
+Watermelon x40
+Pineapple x4
+Tomato x20
+Potato x25
+
+git add .
+git commit -m "Change quantity of item #2”
+
+
+14. git push --all origin
+
+15. git checkout branch2
+
+16. touch shopping_list.txt 
+nano shopping_list.txt
+
+Ice cream x3
+Watermelon x2
+Pineapple x4
+Orange x20
+Potato x25
+
+git add .
+git commit -m “Modify item #4”
+
+17. DONE
+
+18. touch shopping_list.txt 
+nano shopping_list.txt
+
+Ice cream x3
+Watermelon x2
+Pineapple x4
+Orange x20
+Potato x25
+Beer x100
+
+git add .
+git commit -m "Modify item #4 and add item #6"
+
+19. DONE
+
+20. git checkout master
+git fetch origin
+git checkout -b branch1 origin/branch1
+git merge master
+
+21. 
+git fetch origin
+git checkout -b branch2 origin/branch2
+git merge master
+
+22.
+git add 121232.txt
+git commit -m “Add docs”
+
+
