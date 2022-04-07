@@ -117,6 +117,8 @@ git fetch origin
 git checkout -b branch2 origin/branch2
 git merge master
 
+Objasnuvanje: se pojavija conflicts pri merging. Gi reshiv so pomosh na otstranuvanje na praznite redovi vo tekstualnite datoteki -> resolve conflicts
+
 22.
 git add 121232.txt
 git commit -m “Add docs”
