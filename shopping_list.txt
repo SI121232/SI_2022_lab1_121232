@@ -1,6 +1,7 @@
 Ice cream x3
-Watermelon x2
+Watermelon x40
 Pineapple x4
 Orange x20
 Potato x25
 Beer x100
+
