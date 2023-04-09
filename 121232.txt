@@ -8,7 +8,7 @@ Previously it was the default branch repository named “main”, changed it to 
 Za logiranje kreirav soodveten token.
 
 4. DONE
-git clone https://github.com/SI121232/SI_2022_lab1_121232.git
+git clone https://github.com/SI121232/SI_2023_lab1_121232.git
 
 5. 
 touch shopping_list.txt
